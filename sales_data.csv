@@ -1,0 +1,5 @@
+Date,Region,Product,Quantity,Price,Total
+1/1/2025,East,Printer,5,150,750
+1/2/2025,West,Laptop,2,1200,2400
+1/3/2025,North,Monitor,3,300,900
+...,...,...,...,...,...
